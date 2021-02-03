@@ -29,6 +29,7 @@ a {
 /* animation */
 
 p {
+    font-family: Arial, Helvetica, sans-serif;
     animation: 1.5s slide-up;
     margin-top:0%;
     display: block;
